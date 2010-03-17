@@ -1,0 +1,94 @@
+/*
+dark:   #000
+medium: #222
+light:  #f6f2ff
+*/
+
+.container > div > div {
+	border: 1px solid #f6f2ff;
+	background-color: #222;
+}
+
+body {
+	font-size: 100%;
+	color: #f6f2ff;
+	background-image: url('../images/backgrounds/stars.png');
+	background-position: bottom left;
+	background-repeat: repeat;
+	height: 100%;
+}
+
+a {
+	color: #f6f2ff;
+}
+
+.container > div {
+	margin-top: 1em;
+}
+
+html, body {
+	height: 100%;
+}
+
+#wrapper-1, #wrapper-2 {
+	min-height: 100%;
+}
+/* hooray for ie6! */
+* html #wrapper-1, * html #wrapper-2 {
+	height: 100%;
+}
+
+#wrapper-1 {
+	background-image: url('../images/backgrounds/grass.png');
+	background-position: bottom left;
+	background-repeat: repeat-x;
+}
+#wrapper-2 {
+	background-image: url('../images/backgrounds/tree.png');
+	background-position: bottom right;
+	background-repeat: no-repeat;
+}
+
+/* == header == */
+#header {
+	text-align: center;
+}
+#header > div {
+	
+}
+
+#nav {
+	font-size: 150%;
+}
+
+.sub-nav {
+	font-size: 120%;
+}
+
+/* == content == */
+#content {
+	
+}
+
+#content > div {
+	padding: 25px;
+}
+
+/* == sidebar == */
+#sidebar {
+	
+}
+
+#sidebar > div {
+	padding: 8px;
+}
+
+/* == footer == */
+#footer {
+	text-align: center;
+	font-size: small;
+}
+
+#footer > div {
+	padding: 5px;
+}
