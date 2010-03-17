@@ -1,0 +1,12 @@
+---
+layout: default
+title: home
+---
+
+{% for page in site.posts limit:5 %}
+	<div>
+		{% include post_header.html %}
+		{{ page.content }}
+	</div>
+{% endfor %}
+

@@ -72,6 +72,20 @@ html, body {
 
 #content > div {
 	padding: 25px;
+	margin-top: 8px;
+}
+
+#content > div:first-child {
+	margin-top: 0;
+}
+
+#content h1 {
+	font-size: 1.8em;
+}
+
+#content .date {
+	font-size: small;
+	float: right;
 }
 
 /* == sidebar == */
