@@ -22,7 +22,7 @@ have vi-like operation.
 Komodo also has the right amount of stuff, but not too much. As seen below, my
 window is generally fairly minimalistic.
 
-![Komodo Edit](http://xiongchiamiov.github.com/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_01.png)
+![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_01.png)
 
 I have line numbers (can't live without 'em), tabs so I can visually see what
 files I have open at any given time, some other minor information, and some menu
@@ -40,7 +40,7 @@ so does the value of being able to easily visualize it. I prefer to keep this
 out of the way when I'm writing, so the ability to show and hide it quickly is a
 must.
 
-![Komodo Edit](http://xiongchiamiov.github.com/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_02.png)
+![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_02.png)
 
 While I can, of course, set preferences for file encoding, indentation, and line
 endings (and can change those on a per-language basis), Komodo will respect
@@ -53,15 +53,15 @@ displays them, and one of the menu options makes them consistent. Both of these
 are things I've consistently had to fix on a recent group project, where all the
 other members used either gEdit, Eclipse, or vim.
 
-![Komodo Edit](http://xiongchiamiov.github.com/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_03.png)
+![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_03.png)
 
 There is always code folding available at the places I want it, and it clearly
 shows a fold without being distracting. Even more of a plus is that Komodo
 restores the state of the folds in a document when I reopen it, so that I don't
 have to refold all of the code I'm not interested in at the moment all the time.
 
-![Komodo Edit](http://xiongchiamiov.github.com/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_04.png)  
-![Komodo Edit](http://xiongchiamiov.github.com/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_05.png)
+![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_04.png)  
+![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_05.png)
 
 It was trivial to use a dark color theme for Komodo, although changing some
 elements of the interface was [a bit more difficult]. Nonetheless, it is nothing
@@ -72,15 +72,15 @@ any special modification), or to complete tooltip options based on the languages
 Komodo has them for. Having to use something other than tab is unacceptable,
 since I've been trained by my editor, my shell, and my irc client to do so.
 
-![Komodo Edit](http://xiongchiamiov.github.com/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_06.png)  
-![Komodo Edit](http://xiongchiamiov.github.com/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_07.png)
+![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_06.png)  
+![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_07.png)
 
 Along these same lines, I'm auto-indented in when opening a block, and closing
 keywords are either added automatically or pop up for completion.
 
-![Komodo Edit](http://xiongchiamiov.github.com/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_08.png)  
-![Komodo Edit](http://xiongchiamiov.github.com/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_09.png)  
-![Komodo Edit](http://xiongchiamiov.github.com/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_10.png)
+![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_08.png)  
+![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_09.png)  
+![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_10.png)
 
 What do I not like about Komodo? It's an X application, so, while it still has
 functionality to edit files over FTP/SFTP/SCP (and even add them to projects),

@@ -12,7 +12,7 @@ light:  #f6f2ff
 body {
 	font-size: 100%;
 	color: #f6f2ff;
-	background-image: url('../images/backgrounds/stars.png');
+	background-image: url('/media/images/backgrounds/stars.png');
 	background-position: bottom left;
 	background-repeat: repeat;
 	height: 100%;
@@ -39,12 +39,12 @@ html, body {
 }
 
 #wrapper-1 {
-	background-image: url('../images/backgrounds/grass.png');
+	background-image: url('/media/images/backgrounds/grass.png');
 	background-position: bottom left;
 	background-repeat: repeat-x;
 }
 #wrapper-2 {
-	background-image: url('../images/backgrounds/tree.png');
+	background-image: url('/media/images/backgrounds/tree.png');
 	background-position: bottom right;
 	background-repeat: no-repeat;
 }
