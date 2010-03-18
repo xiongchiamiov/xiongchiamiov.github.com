@@ -53,14 +53,17 @@ displays them, and one of the menu options makes them consistent. Both of these
 are things I've consistently had to fix on a recent group project, where all the
 other members used either gEdit, Eclipse, or vim.
 
-![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_03.png)
+![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_03.png "An email I sent out")
 
 There is always code folding available at the places I want it, and it clearly
 shows a fold without being distracting. Even more of a plus is that Komodo
 restores the state of the folds in a document when I reopen it, so that I don't
 have to refold all of the code I'm not interested in at the moment all the time.
 
-![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_04.png)  
+![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_04.png)
+
+- - -
+
 ![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_05.png)
 
 It was trivial to use a dark color theme for Komodo, although changing some
@@ -72,14 +75,23 @@ any special modification), or to complete tooltip options based on the languages
 Komodo has them for. Having to use something other than tab is unacceptable,
 since I've been trained by my editor, my shell, and my irc client to do so.
 
-![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_06.png)  
+![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_06.png)
+
+- - -
+
 ![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_07.png)
 
 Along these same lines, I'm auto-indented in when opening a block, and closing
 keywords are either added automatically or pop up for completion.
 
-![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_08.png)  
-![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_09.png)  
+![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_08.png)
+
+- - -
+
+![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_09.png)
+
+- - -
+
 ![Komodo Edit](/media/images/posts/2010-03-18-why-i-love-komodo-edit/komodo_10.png)
 
 What do I not like about Komodo? It's an X application, so, while it still has
