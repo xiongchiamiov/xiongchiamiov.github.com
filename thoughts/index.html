@@ -1,12 +1,12 @@
 ---
-layout: home
-title: home
+layout: default
+title: Thoughts
 ---
 
-{% for page in site.posts limit:5 %}
-	<div>
-		{% include post_header.html %}
-		{{ page.content }}
+{% for page in site.posts %}
+	<div class="date">
+		{{ page.date | date: "%Y-%m-%d" }}
 	</div>
+	<a href="{{ page.url }}">{{ page.title }}</a><br />
 {% endfor %}
 
