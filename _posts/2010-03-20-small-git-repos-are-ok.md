@@ -6,9 +6,9 @@ title: Small git Repos are Ok!
 I love git. Every project I start has begins with a `git init`, and most of them
 end up on GitHub, which is why [I have] so many freakin' repos there. Well,
 that's not actually all of the reason, although it is a big one. The other two
-are that I have a tendency to use git for things [it's not really designed for],
-and that I have create new repositories willy-nilly. It's actually the latter
-that I want to talk about today.
+are that I have a tendency to use git for things [it's not really designed
+for][wallpapers], and that I have create new repositories willy-nilly. It's
+actually the latter that I want to talk about today.
 
 I often come across people who group lots of unrelated files into one
 repository, either because that's how they happen to be on their filesystem, or
@@ -37,7 +37,7 @@ criticize me for being [a hypocrite][config].
 
 
 [I have]: http://github.com/xiongchiamiov
-[it's not really designed for]: http://xiongchiamiov/wallpapers
+[wallpapers]: http://xiongchiamiov/wallpapers
 [certain project-hosting sites]: http://sourceforge.net/
 [Arch Linux]: http://archlinux.org
 [a few]: http://aur.archlinux.org/packages.php?K=xiong.chiamiov&SeB=m
