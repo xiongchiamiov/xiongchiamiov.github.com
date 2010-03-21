@@ -53,16 +53,23 @@ html, body {
 #header {
 	text-align: center;
 }
-#header > div {
-	
-}
 
 #nav {
-	font-size: 150%;
+	padding-top: 1em;
+	padding-bottom: 1em;
 }
 
-.sub-nav {
-	font-size: 120%;
+#nav table {
+	display: inline;
+	margin-left: 4em;
+}
+
+#nav table:first-child {
+	margin-left: 0;
+}
+
+#nav table tr:first-child td:first-child {
+	font-size: 180%;
 }
 
 /* == content == */
