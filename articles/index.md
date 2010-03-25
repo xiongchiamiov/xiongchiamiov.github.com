@@ -3,4 +3,4 @@ layout: default
 title: Articles
 ---
 
-Nothing here yet!
+[A Proper Introduction to Web Design](web-design/)

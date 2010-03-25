@@ -95,6 +95,20 @@ html, body {
 	float: right;
 }
 
+#content .nav {
+	/* we're changing a <span> to be a block element because I really want a block element,
+	 * but Markdown won't parse things inside a block
+	 */
+	display: block;
+	text-align: center;
+}
+
+#content dl {
+	border: 1px solid #f6f2ff;
+	padding: 8px;
+	background-color: #333;
+}
+
 /* == sidebar == */
 #sidebar {
 	
