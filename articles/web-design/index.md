@@ -8,6 +8,7 @@ title: A Proper Introduction to Web Design
 [Introduction](intro.html)  
 [Basic Theory](basic-theory.html)  
 [Setup](setup.html)  
+[Version Control Systems](vcs.html)  
 
 <span class="nav">&laquo;<strike>Previous</strike> &sect; [Next]&raquo;</span>
 

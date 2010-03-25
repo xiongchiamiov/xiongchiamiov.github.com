@@ -3,7 +3,7 @@ layout: default
 title: Setup - A Proper Introduction to Web Design
 ---
 
-<span class="nav">&laquo;[Previous] &sect; <strike>Next</strike>&raquo;</span>
+<span class="nav">&laquo;[Previous] &sect; [Next]&raquo;</span>
 
 Before getting started doing any coding, you need to have a proper environment
 setup. Many guides will tell you that you can use any text editor you wish, and
@@ -71,9 +71,10 @@ the toolbar area.
 
 Now we're ready to start doing some work.
 
-<span class="nav">&laquo;[Previous] &sect; <strike>Next</strike>&raquo;</span>
+<span class="nav">&laquo;[Previous] &sect; [Next]&raquo;</span>
 
 [Previous]: basic-theory.html
+[Next]: vcs.html
 
 [editor of choice]: /2010/03/18/why-i-love-komodo-edit.html
 [Komodo Edit]: http://www.activestate.com/komodo_edit/
