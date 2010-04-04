@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Site - About
+title: About
 ---
 
 I'm currently a 3rd-year Software Engineering student at [Cal Poly], the best
