@@ -3,6 +3,10 @@ layout: default
 title: About
 ---
 
+![](/media/images/me.jpg)
+
+## Programming
+
 I'm currently a 3rd-year Software Engineering student at [Cal Poly], the best
 university around. ;) I'm employeed part-time as a programmer/sys-admin at
 [MathTV.com], a local math textbook company. While it may not have the glamour
@@ -37,3 +41,18 @@ my code is available on [my GitHub account].
 [Scala]: http://www.scala-lang.org/
 
 [my GitHub account]: http://github.com/xiongchiamiov/
+
+
+## Personality
+
+On the [DISC] view of the universe, I have a natural ranking of 100 S and C, 23
+D and 7 I, which puts me as a pure Coordinator. While not a natural leader in
+any way, I'm rebellious enough to tell the project lead (plainly) when I think
+they've made a poor choice, but passive enough to follow their final decisions.
+
+While many people may find me a bit odd (I have a tendency to keep to myself,
+and have been known to go through a course without ever speaking a word), it is
+rare to find someone who dislikes me.
+
+
+[DISC]: http://en.wikipedia.org/wiki/DISC_assessment

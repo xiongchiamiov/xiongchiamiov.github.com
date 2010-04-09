@@ -86,8 +86,17 @@ html, body {
 	margin-top: 0;
 }
 
+#content h1,
+#content h2 {
+	color: #f6f2ff;
+}
+
 #content h1 {
 	font-size: 1.8em;
+}
+
+#content h2 {
+	font-size: 1.5em;
 }
 
 #content .date {
