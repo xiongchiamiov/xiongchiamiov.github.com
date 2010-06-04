@@ -125,6 +125,17 @@ html, body {
 	background-color: #333;
 }
 
+#content blockquote {
+	color: #f6f2ff;
+	background-color: #111;
+	border: 1px solid #000;
+	padding: 1em;
+}
+
+#content blockquote p {
+	margin: 0;
+}
+
 /* == sidebar == */
 #sidebar {
 	
