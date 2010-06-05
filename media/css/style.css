@@ -143,6 +143,18 @@ html, body {
 
 #sidebar > div {
 	padding: 8px;
+	margin-bottom: 8px;
+}
+
+#sidebar h1 {
+	font-size: inherit;
+	font-weight: bold;
+	color: #f6f2ff;
+	margin: 0;
+}
+
+#sidebar a {
+	text-decoration: none;
 }
 
 /* == footer == */
