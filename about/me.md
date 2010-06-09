@@ -7,11 +7,11 @@ title: About
 
 ## Programming
 
-I'm currently a 3rd-year Software Engineering student at [Cal Poly], the best
-university around. ;) I'm employeed part-time as a programmer/sys-admin at
-[MathTV.com], a local math textbook company. While it may not have the glamour
-of some other jobs, I have very flexible hours, work with nice people, and get
-paid to work on open-source projects.  Win!
+I'm currently finishing up my 4th year as a Software Engineering student at [Cal
+Poly], the best university around. ;) I'm employeed part-time as a
+programmer/sys-admin at [MathTV.com], a local math textbook company. While it
+may not have the glamour of some other jobs, I have very flexible hours, work
+with nice people, and get paid to work on open-source projects. Win!
 
 [PHP] was my first true programming language that I spent any time with, and it
 was my primary until the summer after my freshman year of university, when I
@@ -20,8 +20,8 @@ started working for the [College of Engineering] on [Django]-powered websites.
 writing more and more in [Ruby], because it's so damn fun!
 
 I am also acquainted in various degrees with HTML, CSS, Javascript (mostly with
-[jQuery]), Java, C, [Lua] and Scheme. I hope to be learning [Scala] next, and
-possibly Haskell after that, but plans tend to get altered as time passes.
+[jQuery]), Java, C, [Lua] and Scheme. I am learning [Scala] next, and possibly
+[Haskell], [D] or [Factor] after that, but plans tend to get altered as time passes.
 
 Other than the work that I did for Cal Poly, and most class assignments, all of
 my code is available on [my GitHub account].
@@ -39,6 +39,9 @@ my code is available on [my GitHub account].
 [jQuery]: http://jquery.com/
 [Lua]: http://www.lua.org/
 [Scala]: http://www.scala-lang.org/
+[Haskell]: http://www.haskell.org/
+[D]: http://digitalmars.com/d/index.html
+[Factor]: http://factorcode.org/
 
 [my GitHub account]: http://github.com/xiongchiamiov/
 
