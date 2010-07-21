@@ -103,7 +103,7 @@ running on one gig of RAM.
 
 
 [Komodo Edit]: http://www.activestate.com/komodo_edit/
-[the contact page]: /about_contact.html
+[the contact page]: /about/contact.html
 [Vimperator]: http://vimperator.org/
 [a tiling window manager]: http://awesome.naquadah.org/
 [a bit more difficult]: http://community.activestate.com/faq/customizing-the-komodo-ui#comment-12166
