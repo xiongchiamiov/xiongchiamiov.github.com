@@ -125,7 +125,7 @@ html, body {
 	background-color: #333;
 }
 
-#content blockquote {
+#content blockquote, #content pre {
 	color: #f6f2ff;
 	background-color: #111;
 	border: 1px solid #000;
