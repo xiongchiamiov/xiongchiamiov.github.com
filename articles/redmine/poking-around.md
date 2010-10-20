@@ -45,4 +45,4 @@ dialog in the top-right.
 <span class="nav">&laquo;[Previous] &sect; [Next]&raquo;</span>
 
 [Previous]: registering-an-account.html
-[Next]: #
+[Next]: projects.html

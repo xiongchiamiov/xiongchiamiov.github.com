@@ -7,7 +7,8 @@ title: An Introduction to Redmine
 
 [Introduction](intro.html)  
 [Registering an Account](registering-an-account.html)  
-[Poking Around](poking-around.html)
+[Poking Around](poking-around.html)  
+[Projects](projects.html)
 
 <span class="nav">&laquo;<strike>Previous</strike> &sect; [Next]&raquo;</span>
 
