@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: with-comments
 title: The Quality of the PHP Source
 ---
 

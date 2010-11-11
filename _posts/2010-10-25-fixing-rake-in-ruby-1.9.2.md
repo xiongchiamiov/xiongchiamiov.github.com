@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: with-comments
 title: Fixing Rake in Ruby 1.9.2
 ---
 

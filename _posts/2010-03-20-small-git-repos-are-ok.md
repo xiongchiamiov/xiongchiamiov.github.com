@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: with-comments
 title: Small git Repos are Ok!
 ---
 

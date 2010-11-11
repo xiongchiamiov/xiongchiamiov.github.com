@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: with-comments
 title: Open-Source vs. Opened-Source
 ---
 

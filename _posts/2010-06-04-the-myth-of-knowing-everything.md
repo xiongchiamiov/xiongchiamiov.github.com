@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: with-comments
 title: The Myth of Knowing Everything
 ---
 

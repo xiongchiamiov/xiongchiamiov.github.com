@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: with-comments
 title: HTML Templating in Ruby
 ---
 

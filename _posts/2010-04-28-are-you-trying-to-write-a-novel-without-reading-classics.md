@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: with-comments
 title: Are You Trying to Write a Novel Without Reading Classics?
 ---
 

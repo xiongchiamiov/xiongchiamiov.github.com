@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: with-comments
 title: Why I Love Komodo Edit
 ---
 
