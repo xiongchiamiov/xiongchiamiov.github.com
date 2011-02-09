@@ -136,6 +136,15 @@ html, body {
 	margin: 0;
 }
 
+#content th {
+	background-color: inherit;
+	border-bottom: 1px double #888;
+}
+
+#content td {
+	border-bottom: 1px dashed #888;
+}
+
 /* == sidebar == */
 #sidebar {
 	
