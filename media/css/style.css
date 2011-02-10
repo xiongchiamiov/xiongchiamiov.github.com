@@ -57,19 +57,19 @@ html, body {
 #nav {
 	padding-top: 1em;
 	padding-bottom: 1em;
+	text-align: center;
 }
 
 #nav table {
-	display: inline;
-	margin-left: 4em;
-}
-
-#nav table:first-child {
-	margin-left: 0;
+	display: inline-table;
+	padding: 0;
+	margin: 0;
+	width: 230px;
 }
 
 #nav table tr:first-child td:first-child {
 	font-size: 180%;
+	text-align: center;
 }
 
 /* == content == */
