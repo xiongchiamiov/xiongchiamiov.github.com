@@ -6,10 +6,11 @@ title: Reading List - About
 Date Finished | Title                       | Author                            | Comments
 ------------- | --------------------------- | --------------------------------- | --------
       -       | Pride & Prejudice           | Jane Austen                       |
-      -       | Dune Messiah                | Frank Herbert                     | Reread
+      -       | Children of Dune            | Frank Herbert                     | Reread
       -       | 97 Things Every Programmer Should Know | Kevlin Henny           |
       -       | Grey Hat Python             | Justin Seitz                      |
       -       | Linux Firewalls             | Michael Rash                      |
+  2011-02-15  | Dune Messiah                | Frank Herbert                     | Reread
   2011-01-20  | The Pragmatic Programmer    | Andrew Hunt & David Thomas        |
   2011-01-01  | Deadly Sanctuary            | Sylvia Nobel                      |
   2010-??-??  | The Great Hunt              | Robert Jordan                     |
