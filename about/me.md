@@ -9,9 +9,7 @@ title: About
 
 I'm currently finishing up my 4th year as a Software Engineering student at [Cal
 Poly], the best university around. ;) I'm employeed part-time as a
-programmer/sys-admin at [MathTV.com], a local math textbook company. While it
-may not have the glamour of some other jobs, I have very flexible hours, work
-with nice people, and get paid to work on open-source projects. Win!
+programmer/sys-admin at [iFixit].
 
 [PHP] was my first true programming language that I spent any time with, and it
 was my primary until the summer after my freshman year of university, when I
@@ -28,7 +26,7 @@ my code is available on [my GitHub account].
 
 
 [Cal Poly]: http://calpoly.edu/
-[MathTV.com]: http://mathtv.com/
+[iFixit]: http://ifixit.com/
 
 [PHP]: http://php.net/
 [College of Engineering]: http://ceng.calpoly.edu/
