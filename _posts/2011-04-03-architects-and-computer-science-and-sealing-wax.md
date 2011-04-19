@@ -1,6 +1,6 @@
 ---
 layout: with-comments
-title: Architects anc Computer Science and Sealing Wax
+title: Architects and Computer Science and Sealing Wax
 ---
 
 Any student in a Computer Science-y program has undoubtably heard their goal
