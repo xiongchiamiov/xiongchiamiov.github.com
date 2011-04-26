@@ -5,10 +5,8 @@ title: Reading List - About
 
 Date Finished | Title                       | Author                            | Comments
 ------------- | --------------------------- | --------------------------------- | --------
-      -       | Children of Dune            | Frank Herbert                     | Reread
-      -       | Mere Christianity           | C. S. Lewis                       |
-      -       | Pride & Prejudice           | Jane Austen                       |
-      -       | Wyrd Sisters                | Terry Pratchett                   |
+  2011-04-26  | Death at the Excelsior - And Other Stories | P.G. Wodehouse     |
+  2011-04-21  | Wyrd Sisters                | Terry Pratchett                   |
   2011-03-30  | Equal Rites                 | Terry Pratchett                   |
   2011-02-15  | Dune Messiah                | Frank Herbert                     | Reread
   2011-01-01  | Deadly Sanctuary            | Sylvia Nobel                      |
