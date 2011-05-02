@@ -8,8 +8,8 @@ title: About
 ## Programming
 
 I'm currently finishing up my 4th year as a Software Engineering student at [Cal
-Poly], the best university around. ;) I'm employeed part-time as a
-programmer/sys-admin at [iFixit].
+Poly], the best university around. ;) I'm employeed part-time as a "code frog"
+(yes, that is my title) at [iFixit].
 
 [PHP] was my first true programming language that I spent any time with, and it
 was my primary until the summer after my freshman year of university, when I
