@@ -5,6 +5,7 @@ title: Reading List - About
 
 Date Finished | Title                       | Author                            | Comments
 ------------- | --------------------------- | --------------------------------- | --------
+  2011-05-13  | Lolita                      | Vladimir Nabokov                  |
   2011-04-26  | Death at the Excelsior - And Other Stories | P.G. Wodehouse     |
   2011-04-21  | Wyrd Sisters                | Terry Pratchett                   |
   2011-03-30  | Equal Rites                 | Terry Pratchett                   |
@@ -23,4 +24,4 @@ Date Finished | Title                       | Author                            
   2010-??-??  | The Great Train Robbery     | Michael Crichton                  | Reread
 
 I created this page in February of '11, so the list of books read in 2010 is not
-a complete, but just what I could remember.
+complete, but just what I could remember.
