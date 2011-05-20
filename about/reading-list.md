@@ -5,6 +5,7 @@ title: Reading List - About
 
 Date Finished | Title                       | Author                            | Comments
 ------------- | --------------------------- | --------------------------------- | --------
+  2011-05-19  | Darkness Visible            | William Styron                    |
   2011-05-13  | Lolita                      | Vladimir Nabokov                  |
   2011-04-26  | Death at the Excelsior - And Other Stories | P.G. Wodehouse     |
   2011-04-21  | Wyrd Sisters                | Terry Pratchett                   |
