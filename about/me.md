@@ -55,7 +55,7 @@ While many people may find me a bit odd (I have a tendency to keep to myself,
 and have been known to go through a course without ever speaking a word), it is
 rare to find someone who dislikes me.
 
-I maintain [a list][reading-list] of books I'm reading or have recently read.
+I maintain [a list][reading-list] of books I've recently read.
 
 
 [DISC]: http://en.wikipedia.org/wiki/DISC_assessment
