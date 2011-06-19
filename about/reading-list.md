@@ -5,6 +5,7 @@ title: Reading List - About
 
 Date Finished | Title                       | Author                            | Reread
 ------------- | --------------------------- | --------------------------------- | --------
+  2011-06-16  | A Man of Means - A Series of Six Stories | P.G. Wodehouse       |
   2011-06-12  | The Moon is a Harsh Mistress| Robert Heinlein                   |
   2011-05-19  | Darkness Visible            | William Styron                    |
   2011-05-13  | Lolita                      | Vladimir Nabokov                  |
