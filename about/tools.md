@@ -80,7 +80,9 @@ title: My Tools - About
 <tr>
 	<td>Music Player</td>
 	<td>
-		<a href="http://amarok.kde.org/">Amarok 1.4</a> and <a href="http://mpd.wikia.com/wiki/Music_Player_Daemon_Wiki">MPD</a>
+		<a href="http://www.clementine-player.org/">Clementine</a>,
+		<a href="http://mpd.wikia.com/wiki/Music_Player_Daemon_Wiki">MPD</a> and
+		<a href="http://6xq.net/projects/pianobar/">pianobar</a>
 	</td>
 </tr>
 <tr>
@@ -92,7 +94,7 @@ title: My Tools - About
 <tr>
 	<td>Torrent Client</td>
 	<td>
-		<a href="http://libtorrent.rakshasa.no/">rTorrent</a>
+		<a href="http://deluge-torrent.org/">Deluge</a>
 	</td>
 </tr>
 </table>
