@@ -5,6 +5,7 @@ title: Reading List - About
 
 Date Finished | Title                       | Author                            | Reread
 ------------- | --------------------------- | --------------------------------- | --------
+  2011-07-04  | A Study in Scarlet          | Sir Arthur Conan Doyle            | x
   2011-07-04  | Daemon                      | Daniel Suarez                     |
   2011-06-16  | A Man of Means - A Series of Six Stories | P.G. Wodehouse       |
   2011-06-12  | The Moon is a Harsh Mistress| Robert Heinlein                   |
