@@ -7,7 +7,7 @@ title: About
 
 ## Programming
 
-I'm currently finishing up my 4th year as a Software Engineering student at [Cal
+I'm currently starting my 5th year as a Software Engineering student at [Cal
 Poly], the best university around. ;) I'm employed part-time as a "code frog"
 (yes, that is my title) at [iFixit].
 
