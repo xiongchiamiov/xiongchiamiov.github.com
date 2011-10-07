@@ -5,6 +5,7 @@ title: Reading List - About
 
 Date Finished | Title                       | Author                            | Reread
 ------------- | --------------------------- | --------------------------------- | --------
+  2011-10-06  | The Little Prince           | Antoine de Saint-Exup&eacute;ry   | 
   2011-07-04  | A Study in Scarlet          | Sir Arthur Conan Doyle            | x
   2011-07-04  | Daemon                      | Daniel Suarez                     |
   2011-06-16  | A Man of Means - A Series of Six Stories | P.G. Wodehouse       |
