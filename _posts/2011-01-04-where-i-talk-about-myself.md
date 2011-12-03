@@ -47,7 +47,10 @@ failure.
 
 (As a sidenote, this puts me in a strange position, halfway between programmer
 and system administrator. I haven't quite figured out what job title I should be
-looking for, so if you know, please share!)
+looking for, so if you know, please share!) *Editor's note: the position is
+generally referred to as [DevOps].*
+
+[DevOps]: http://en.wikipedia.org/wiki/File:Devops.png
 
 This also manifests strangely in that I don't really like to work on a project
 from scratch - if I could be paid to work solely on refactoring (making things
