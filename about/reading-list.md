@@ -5,6 +5,7 @@ title: Reading List - About
 
 Date Finished | Title                       | Author                            | Reread
 ------------- | --------------------------- | --------------------------------- | --------
+  2011-12-02  | Never Let Me Go             | Kazuo Ishiguro                    |
   2011-11-17  | The Colour of Magic         | Terry Pratchett                   |
   2011-10-20  | Prelude to Foundation       | Isaac Asimov                      | 
   2011-10-06  | The Little Prince           | Antoine de Saint-Exup&eacute;ry   | 
