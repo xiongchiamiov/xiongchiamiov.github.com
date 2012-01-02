@@ -34,5 +34,3 @@ Date Finished | Title                       | Author                            
   2010-??-??  | Mort                        | Terry Pratchett                   |
   2010-??-??  | The Great Train Robbery     | Michael Crichton                  | x
 
-I created this page in February of '11, so the list of books read in 2010 is not
-complete, but just what I could remember.
