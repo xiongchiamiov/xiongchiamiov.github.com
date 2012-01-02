@@ -5,6 +5,7 @@ title: Reading List - About
 
 Date Finished | Title                       | Author                            | Reread
 ------------- | --------------------------- | --------------------------------- | --------
+  2012-01-01  | 4:50 from Paddington        | Agatha Christie                   |
   2011-12-10  | The Bug                     | Ellen Ullman                      |
   2011-12-02  | Never Let Me Go             | Kazuo Ishiguro                    |
   2011-11-17  | The Colour of Magic         | Terry Pratchett                   |
