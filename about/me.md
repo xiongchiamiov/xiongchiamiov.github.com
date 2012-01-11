@@ -5,6 +5,12 @@ title: About
 
 ![](/media/images/me.jpg)
 
+## Resume
+
+Available in PDF form [on this very site][resume].
+
+[resume]: /about/resume.pdf
+
 ## Programming
 
 I'm currently starting my 5th year as a Software Engineering student at [Cal
