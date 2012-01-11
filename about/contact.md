@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Site - About
+title: Contact - About
 ---
 
 email: <a href="mailto:pearson@changedmy.name">pearson@changedmy.name</a>  
