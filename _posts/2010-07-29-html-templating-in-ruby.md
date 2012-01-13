@@ -36,7 +36,7 @@ could find on that were Rails-specific, which is utterly unhelpful for a script
 like this. I spent a while digging through the haml source before giving up in
 frustration. Seriously, guys. No.
 
-Ah, [liquid], my Smarty-like friend. Put the template back to HTML and through
+Ah, [liquid], my Smarty-like friend. Put the template back to HTML and throw
 in a `puts Liquid::Template.parse(IO.read "funi.html").render('entries' =>
 entries)`, and we're good to go.
 
