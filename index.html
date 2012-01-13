@@ -1,0 +1,26 @@
+---
+layout: default
+title: Hello!
+---
+
+<p>
+This is the current homepage of James Pearson, known as <a
+href="http://www.google.com/search?q=%22xiong+chiamiov%22+OR+%22xiong_chiamiov%22+OR+%22xiongchiamiov%22+OR+%22xchiamiov%22">Xiong
+Chiamiov</a> across the internets.</p>
+
+{% for page in paginator.posts %}
+<div class="date">
+  {{ page.date | date: "%Y-%m-%d" }}
+</div>
+<h2>
+  <a href="{{ page.url }}">{{ page.title }}</a>
+</h2>
+{{ page.content | truncatewords: 130 }}
+<a href="{{ page.url }}">more</a>
+<br /><br />
+{% endfor %}
+
+<br /><br />
+
+<a href="/thoughts/">View all posts.</a>
+

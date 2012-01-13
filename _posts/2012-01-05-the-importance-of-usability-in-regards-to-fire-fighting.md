@@ -17,7 +17,7 @@ to a recent experience.
 [How Complex Systems Fail]: http://www.ctlab.org/documents/How%20Complex%20Systems%20Fail.pdf
 [John Allspaw]: http://www.kitchensoap.com/about-me/
 
-# An Anecdote
+## An Anecdote
 
 As part of my Christmas vacation, I stayed at my grandparents' house for a few
 days.  They've lived there for some time, so the house has a few issues - like
@@ -43,7 +43,7 @@ Later, my grandpa asked me why I hadn't just turned off the water.  My answer:
 
  > It didn't even occur to me.
 
-# And Here Comes Usability
+## And Here Comes Usability
 
 [The Design of Everyday Things] is a wonderful book on general, everyday
 usability.  In it, Donald Norman explains his idea of the process a user goes
@@ -69,7 +69,7 @@ customer, it's not particularly important.  But I say to you that it *does*
 affect our customers, for it increases our [mean time to repair] in states of
 emergency.
 
-# Dear Princess Celestia
+## Dear Princess Celestia
 
 1. Make a list of all the tools you use when firefighting.
 2. Improve their usability.

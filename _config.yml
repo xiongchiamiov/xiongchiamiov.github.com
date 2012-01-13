@@ -2,3 +2,4 @@ pygments: true
 auto: true
 lsi: false
 markdown: rdiscount
+paginate: 3

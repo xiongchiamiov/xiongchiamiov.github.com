@@ -27,7 +27,7 @@ hubris.
 I think this is what keeps us going in the face of difficulties - we believe
 we're smart enough to do anything, despite any evidence to the contrary.
 
-# So...? #
+## So...? #
 
 What implications does this have on CS education?
 

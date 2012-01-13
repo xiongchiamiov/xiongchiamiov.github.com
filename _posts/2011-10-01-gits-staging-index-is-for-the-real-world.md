@@ -28,7 +28,7 @@ only bits and pieces of what you've tested into your commit; it's the same
 result as when you forget to add a file that you created (and your changes rely
 upon).  I feel it's quite necessary to allow this, though, because
 
-# I live in the real world. #
+## I live in the real world. #
 
 I know, it's crazy, but sometimes I have to deal with things that
 *theoretically* should never happen if we were *completely* following Foobar

@@ -10,21 +10,21 @@ don't receive texts either.
 Why, you ask? Having anticipated your potential question and bated you into
 asking it, I have kindly provided answers below.
 
-# [Your whole feces lights up when she's in the room](http://damnyouautocorrect.com/4369/new-girlfriend/)
+## [Your whole feces lights up when she's in the room](http://damnyouautocorrect.com/4369/new-girlfriend/)
 
 I have a flip-phone. You know, those things that were pretty standard back in
 2007, when I got it? Typing letters on a numeric keypad is, well, painful. Even
 touchscreen virtual keyboards aren't that great. I'm holding out for a phone
 with a qwerty hardware keyboard.
 
-# [Do one thing and do it well](http://en.wikipedia.org/wiki/Unix_philosophy)
+## [Do one thing and do it well](http://en.wikipedia.org/wiki/Unix_philosophy)
 
 Phones make and receive phone calls. Computers browse the web, play games, take
 pictures, play music, and find directions. I have a phone - you have a portable
 computer. Recognize that, although they share superficial similarities, they are
 quite different devices.
 
-# [Alright, poop coming out](http://www.penny-arcade.com/comic/2008/4/23/)
+## [Alright, poop coming out](http://www.penny-arcade.com/comic/2008/4/23/)
 
 In this day and age, people tend to be much more connected to each other than
 previously. Sure, it leads to increased [dorama] among teens. Yes, there are
@@ -41,7 +41,7 @@ to me, I'm listening; texting will only be yet another thing for me to fight.
 
 [dorama]: http://www.urbandictionary.com/define.php?term=dorama&defid=1941883
 
-# [Because that leads to fully-formed ideas](http://www.youtube.com/watch?v=putQn89TQzc)
+## [Because that leads to fully-formed ideas](http://www.youtube.com/watch?v=putQn89TQzc)
 
 As a method of communication becomes easier, the overall quality of messages
 sent tends to drop. If someone writes you a letter (like, on paper, and sent

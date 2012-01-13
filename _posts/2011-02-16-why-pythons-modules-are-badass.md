@@ -11,7 +11,7 @@ namespaces.
 
 [esoteric]: http://en.wikipedia.org/wiki/Esoteric_programming_language
 
-# Creating a module is easy
+## Creating a module is easy
 
 In the simplist cases, nothing special is needed. Want to use a class `Foo`
 defined in `awesome.py`? Just `from awesome import Foo` and you can utilize
@@ -28,7 +28,7 @@ directory structure
 and building upon the previous definitions, `my_program.py` can use the statement `from lib.awesome import Foo` to make our
 `Foo` class available.
 
-# Explicitness leads to maintainability
+## Explicitness leads to maintainability
 
 Here's a common situation in older PHP code:
 
@@ -48,7 +48,7 @@ like
 	
 	if logged_in(): // logged_in is defined in authenticate.py
 
-# 'As' promotes flexibility
+## 'As' promotes flexibility
 
 Python allows you to import modules under different names. Say you're developing
 some application that uses the `cpickle` module.
@@ -66,7 +66,7 @@ switches your program over to the pure-Python `pickle` module:
 	
 	data = cpickle.load('file.pickle')
 
-# Notes and technicalities
+## Notes and technicalities
 
 If you want to clobber your namespace with everything defined in a module, you
 can use the `from foo import *` syntax. This is commonly done when working with
