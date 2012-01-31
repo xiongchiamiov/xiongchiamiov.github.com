@@ -31,8 +31,7 @@ title: My Tools - About
 <tr>
 	<td>Text Editor</td>
 	<td>
-		<a href="http://www.activestate.com/komodo_edit/">Komodo Edit</a>
-		(<a href="/2010/03/18/why-i-love-komodo-edit.html">why I love it</a>)
+		<a href="http://www.vim.org/">Vim</a>
 	</td>
 </tr>
 <tr>
