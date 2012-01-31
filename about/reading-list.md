@@ -5,6 +5,7 @@ title: Reading List - About
 
 Date Finished | Title                       | Author                            | Reread
 ------------- | --------------------------- | --------------------------------- | --------
+  2012-01-31  | The Twenty-One Balloons     | William P&egrave;ne du Bois       |
   2012-01-01  | 4:50 from Paddington        | Agatha Christie                   |
   2011-12-10  | The Bug                     | Ellen Ullman                      |
   2011-12-02  | Never Let Me Go             | Kazuo Ishiguro                    |
