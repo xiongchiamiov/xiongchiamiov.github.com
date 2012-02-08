@@ -24,6 +24,7 @@ These are the reddits I read (more or less frequently).
 * [programming](http://reddit.com/r/programming)
 * [Python](http://reddit.com/r/Python)
 * [raspberry_pi](http://reddit.com/r/raspberry_pi)
+* [ruby](http://reddit.com/r/ruby)
 * [startups](http://reddit.com/r/startups)
 * [webdev](http://reddit.com/r/webdev)
 * [zsh](http://reddit.com/r/zsh)
