@@ -35,5 +35,6 @@ These are the reddits I read (more or less frequently).
 * [ccw](http://reddit.com/r/ccw)
 * [edc](http://reddit.com/r/edc)
 * [flashlight](http://reddit.com/r/flashlight)
+* [Knife_Swap](http://reddit.com/r/knife_swap)
 * [knives](http://reddit.com/r/knives)
 
