@@ -26,6 +26,7 @@ These are the reddits I read (more or less frequently).
 * [raspberry_pi](http://reddit.com/r/raspberry_pi)
 * [ruby](http://reddit.com/r/ruby)
 * [startups](http://reddit.com/r/startups)
+* [vim](http://reddit.com/r/vim)
 * [webdev](http://reddit.com/r/webdev)
 * [zsh](http://reddit.com/r/zsh)
 

@@ -37,7 +37,7 @@ criticize me for being [a hypocrite][config].
 
 
 [I have]: http://github.com/xiongchiamiov
-[wallpapers]: http://xiongchiamiov/wallpapers
+[wallpapers]: http://github.com/xiongchiamiov/wallpapers
 [certain project-hosting sites]: http://sourceforge.net/
 [Arch Linux]: http://archlinux.org
 [a few]: http://aur.archlinux.org/packages.php?K=xiong.chiamiov&SeB=m
