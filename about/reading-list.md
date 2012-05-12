@@ -5,6 +5,7 @@ title: Reading List - About
 
 Date Finished | Title                       | Author                            | Reread
 ------------- | --------------------------- | --------------------------------- | --------
+  2012-05-10  | Watchmen                    | Alan Moore                        |
   2012-04-30  | The Tao of Pooh             | Benjamin Hoff                     |
   2012-04-27  | Cryptonomicon               | Neal Stephenson                   |
   2012-03-15  | Freedom                     | Daniel Suarez                     |
