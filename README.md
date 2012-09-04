@@ -3,7 +3,7 @@ License
 
 All code is licensed under the WTFPL, as follows:
 
-Copyright (C) 2010-2011 James Pearson
+Copyright (C) 2010-2012 James Pearson
 
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
