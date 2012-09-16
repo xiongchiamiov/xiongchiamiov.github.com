@@ -5,6 +5,7 @@ title: Reading List - About
 
 Date Finished | Title                       | Author                            | Reread
 ------------- | --------------------------- | --------------------------------- | --------
+  2012-09-16  | The Tuesday Club Murders    | Agatha Christie                   |
   2012-09-02  | Kill Decision               | Daniel Suarez                     |
   2012-05-10  | Watchmen                    | Alan Moore                        |
   2012-04-30  | The Tao of Pooh             | Benjamin Hoff                     |
