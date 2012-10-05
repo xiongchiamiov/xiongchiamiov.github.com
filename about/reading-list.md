@@ -5,6 +5,7 @@ title: Reading List - About
 
 Date Finished | Title                       | Author                            | Reread
 ------------- | --------------------------- | --------------------------------- | --------
+  2012-10-02  | Ender's Shadow              | Orson Scott Card                  | x
   2012-09-16  | The Tuesday Club Murders    | Agatha Christie                   |
   2012-09-02  | Kill Decision               | Daniel Suarez                     |
   2012-05-10  | Watchmen                    | Alan Moore                        |
