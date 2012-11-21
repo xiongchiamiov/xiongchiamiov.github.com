@@ -6,7 +6,7 @@ title: Reading List - About
 Date Finished | Title                       | Author                            | Reread
 ------------- | --------------------------- | --------------------------------- | --------
   2012-11-21  | The Secret Adversary        | Agatha Christie                   |
-  2012-11-14  | The Gods Themselves         | Isaac Asimov                      | x
+  2012-11-14  | The Gods Themselves         | Isaac Asimov                      |
   2012-10-02  | Ender's Shadow              | Orson Scott Card                  | x
   2012-09-16  | The Tuesday Club Murders    | Agatha Christie                   |
   2012-09-02  | Kill Decision               | Daniel Suarez                     |
