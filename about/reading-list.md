@@ -5,6 +5,7 @@ title: Reading List - About
 
 Date Finished | Title                       | Author                            | Reread
 ------------- | --------------------------- | --------------------------------- | --------
+  2012-11-23  | The Truth                   | Terry Pratchett                   |
   2012-11-21  | The Secret Adversary        | Agatha Christie                   |
   2012-11-14  | The Gods Themselves         | Isaac Asimov                      |
   2012-10-02  | Ender's Shadow              | Orson Scott Card                  | x
