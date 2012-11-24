@@ -145,6 +145,11 @@ html, body {
 	border-bottom: 1px dashed #888;
 }
 
+#content pre {
+	/* Don't let text flow off the side of the page. */
+	overflow: auto;
+}
+
 /* == sidebar == */
 #sidebar {
 	
