@@ -5,6 +5,7 @@ title: Reading List - About
 
 Date Finished | Title                       | Author                            | Reread
 ------------- | --------------------------- | --------------------------------- | --------
+  2012-12-27  | Shadow of the Hegemon       | Orson Scott Card                  |
   2012-12-25  | Blankets                    | Craig Thompson                    |
   2012-12-25  | Hatchet                     | Gary Paulsen                      | x
   2012-11-23  | The Truth                   | Terry Pratchett                   |
