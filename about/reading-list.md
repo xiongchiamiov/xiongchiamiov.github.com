@@ -5,6 +5,7 @@ title: Reading List - About
 
 Date Finished | Title                       | Author                            | Reread
 ------------- | --------------------------- | --------------------------------- | --------
+  2013-02-16  | Warbreaker                  | Brandon Sanderson                 |
   2012-12-28  | The Murder at the Vicarage  | Agatha Christie                   |
   2012-12-27  | Shadow of the Hegemon       | Orson Scott Card                  |
   2012-12-25  | Blankets                    | Craig Thompson                    |
