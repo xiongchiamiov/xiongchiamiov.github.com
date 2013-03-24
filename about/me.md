@@ -11,6 +11,17 @@ Available in PDF form [on this very site][resume].
 
 [resume]: /about/resume.pdf
 
+## tl;dr
+
+I self-identify as a [Baptist], [Libertarian], [Distributist], [Utilitarian],
+[open-sourcer] programmer and sysadmin.
+
+[Baptist]: http://en.wikipedia.org/wiki/Baptist#Baptist_beliefs_and_principles
+[Libertarian]: http://en.wikipedia.org/wiki/Libertarianism_in_the_United_States
+[Distributist]: http://en.wikipedia.org/wiki/Distributism
+[Utilitarian]: http://www.utilitarian.net/
+[open-sourcer]: http://www.gerv.net/writings/christianity-and-fsm/tca-fsm.html
+
 ## Programming
 
 I'm currently starting my 5th year as a Software Engineering student at [Cal
