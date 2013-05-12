@@ -5,7 +5,7 @@ light:  #f6f2ff
 */
 
 .container > div > div {
-	border: 1px solid #f6f2ff;
+	border: 1px solid #f6f2ff !important;
 	background-color: #222;
 }
 
@@ -169,6 +169,21 @@ html, body {
 
 #sidebar a {
 	text-decoration: none;
+}
+
+/* == goodreads widget == */
+/* See the note in the sidebar code for why these are here. */
+#gr_challenge_940, #gr_challenge_940 a, #gr_challenge_940 div {
+	font-family: inherit !important;
+	font-style: inherit !important;
+	border-radius: inherit !important;
+}
+
+#gr_challenge_940 h3 {
+}
+
+.challengePic {
+	display: none;
 }
 
 /* == footer == */
