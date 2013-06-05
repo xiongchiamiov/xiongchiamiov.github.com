@@ -12,6 +12,7 @@ light:  #f6f2ff
 body {
 	font-size: 100%;
 	color: #f6f2ff;
+	font-family: "museo-1", "museo-2", serif;
 	background-image: url('/media/images/backgrounds/stars.png');
 	background-position: bottom left;
 	background-repeat: repeat;
