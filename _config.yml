@@ -1,3 +1,4 @@
+exclude: env
 pygments: true
 auto: true
 lsi: false
