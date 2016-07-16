@@ -1,5 +1,4 @@
-pygments: true
-auto: true
+highlighter: pygments
 lsi: false
 markdown: rdiscount
 paginate: 3
